@@ -28,7 +28,7 @@ Place the dataset in the location expected by the notebook before running it. Th
 
 ## How to Run
 
-1. Open `wafer_guard_fixed.ipynb` in [Google Colab](https://colab.research.google.com/).
+1. Open `wafer_guard_fixed.ipynb` in Google Colab.
 2. Upload `secom_telemetry_modified.csv` or configure the notebook to read it from the appropriate location.
 3. Run the notebook cells in order.
 4. Review the evaluation metrics and compare them with `results.json`.
